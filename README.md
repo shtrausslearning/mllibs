@@ -20,6 +20,12 @@
 - `gpr_bclassifier` - Gaussian Process Regression Class (Turned Binary Classifier)
 - `kriging_regressor` - Universal Kriging Regression Class
 
+#### Installation:
+
+```python
+!pip install mllibs
+```
+
 #### **Used in Notebooks (Examples):**
 - **[Gaussian Processes | Airfoil Noise Modeling](https://www.kaggle.com/code/shtrausslearning/gaussian-processes-airfoil-noise-modeling)**
 - **[Geospatial Data Visualisation | Australia](https://www.kaggle.com/code/shtrausslearning/geospatial-data-visualisation-australia)**
@@ -27,9 +33,3 @@
 - **[Heart Disease | Gaussian Process Models](https://www.kaggle.com/code/shtrausslearning/heart-disease-gaussian-process-models)**
 - **[Spectogram Broadband Model & Peak Identifier](https://www.kaggle.com/code/shtrausslearning/spectogram-broadband-model-peak-identifier)**
 - **[CFD Trade-Off Study Visualisation | Response Model](https://www.kaggle.com/code/shtrausslearning/cfd-trade-off-study-visualisation-response-model)** 
-
-#### Installation:
-
-```python
-!pip install mllibs
-```
