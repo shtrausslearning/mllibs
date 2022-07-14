@@ -7,7 +7,7 @@
 - <code>sklearn</code> compatible classes for use in machine learning (ML) analyses
 
 #### **Kaggle** | **Github** version: 
-- **<code>[ml-models](https://www.kaggle.com/datasets/shtrausslearning/ml-models)</code>** **0.0.1** | **<code>[biopyseq](https://github.com/shtrausslearning/mllibs)</code>** **0.0.1**
+- **<code>[ml-models](https://www.kaggle.com/datasets/shtrausslearning/ml-models)</code>** **0.0.1** | **<code>[mllibs](https://github.com/shtrausslearning/mllibs)</code>** **0.0.1**
 
 #### **src** content:
 - `bl_regressor` - Bayesian Linear Regression Class
