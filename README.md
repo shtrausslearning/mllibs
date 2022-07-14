@@ -7,13 +7,12 @@
 - <code>sklearn</code> compatible classes for use in machine learning (ML) analyses
 
 
-
 #### **Used in Notebooks:**
 - **[Gaussian Processes | Airfoil Noise Modeling](https://www.kaggle.com/code/shtrausslearning/gaussian-processes-airfoil-noise-modeling)**
 - **[Geospatial Data Visualisation | Australia](https://www.kaggle.com/code/shtrausslearning/geospatial-data-visualisation-australia)**
-- **[Bayesian Regression | House Price Prediction](https://www.kaggle.com/code/shtrausslearning/bayesian-regression-house-price-prediction)
+- **[Bayesian Regression | House Price Prediction](https://www.kaggle.com/code/shtrausslearning/bayesian-regression-house-price-prediction)**
 - **[Heart Disease | Gaussian Process Models](https://www.kaggle.com/code/shtrausslearning/heart-disease-gaussian-process-models)
-- **[Spectogram Broadband Model & Peak Identifier](https://www.kaggle.com/code/shtrausslearning/spectogram-broadband-model-peak-identifier)
+- **[Spectogram Broadband Model & Peak Identifier](https://www.kaggle.com/code/shtrausslearning/spectogram-broadband-model-peak-identifier)**
 - **[CFD Trade-Off Study Visualisation | Response Model](https://www.kaggle.com/code/shtrausslearning/cfd-trade-off-study-visualisation-response-model)**
 
 #### pypi version
