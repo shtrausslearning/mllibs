@@ -6,6 +6,16 @@
 #### **Package aims to provide:**
 - <code>sklearn</code> compatible classes for use in machine learning (ML) analyses
 
+#### **Kaggle** | **Github** version: 
+- **<code>[ml-models](https://www.kaggle.com/datasets/shtrausslearning/ml-models)</code>** **0.0.1** | **<code>[biopyseq](https://github.com/shtrausslearning/mllibs)</code>** **0.0.1**
+
+#### **src** content:
+- `bl_regressor` - Bayesian Linear Regression Class
+- `gmm` - Gaussian Mixture Clustering Class
+- `gp_bclassifier` - Gaussian Process Binary Classification Class
+- `gp_regressor` - Gaussian Process Regression Class
+- `gpr_bclassifier` - Gaussian Process Regression Class (Turned Binary Classifier)
+- `kriging_regressor` - Universal Kriging Regression Class
 
 #### **Used in Notebooks:**
 - **[Gaussian Processes | Airfoil Noise Modeling](https://www.kaggle.com/code/shtrausslearning/gaussian-processes-airfoil-noise-modeling)**
