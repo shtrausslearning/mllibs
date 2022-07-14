@@ -5,3 +5,6 @@
 
 #### **Package aims to provide:**
 - <code>sklearn</code> compatible classes for use in machine learning (ML) analyses
+
+#### pypi version
+[![PyPI version](https://badge.fury.io/py/mllibs.svg)](https://badge.fury.io/py/mllibs)
