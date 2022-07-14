@@ -20,7 +20,7 @@
 - `gpr_bclassifier` - Gaussian Process Regression Class (Turned Binary Classifier)
 - `kriging_regressor` - Universal Kriging Regression Class
 
-#### **Used in Notebooks:**
+#### **Used in Notebooks (Examples):**
 - **[Gaussian Processes | Airfoil Noise Modeling](https://www.kaggle.com/code/shtrausslearning/gaussian-processes-airfoil-noise-modeling)**
 - **[Geospatial Data Visualisation | Australia](https://www.kaggle.com/code/shtrausslearning/geospatial-data-visualisation-australia)**
 - **[Bayesian Regression | House Price Prediction](https://www.kaggle.com/code/shtrausslearning/bayesian-regression-house-price-prediction)**
