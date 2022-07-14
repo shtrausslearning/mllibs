@@ -6,5 +6,10 @@
 #### **Package aims to provide:**
 - <code>sklearn</code> compatible classes for use in machine learning (ML) analyses
 
+
+
+#### **Used in Notebooks:**
+- **[Gaussian Processes | Airfoil Noise Modeling](https://www.kaggle.com/code/shtrausslearning/gaussian-processes-airfoil-noise-modeling)**
+
 #### pypi version
 [![PyPI version](https://badge.fury.io/py/mllibs.svg)](https://badge.fury.io/py/mllibs)
